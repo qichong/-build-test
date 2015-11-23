@@ -20,8 +20,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //    ;;;    afa 
+    //    ;;;    afa
     BViewControl *view = [[BViewControl alloc] init];
+    /**
+     *  ll
+     */
     [self.view addSubview:view.view];
     nav = [[UINavigationController alloc] initWithRootViewController:view];
     ctr = view;
