@@ -178,6 +178,7 @@
 				TargetAttributes = {
 					E181A6201BFC6469001EB55B = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = Y2UF96JJBK;
 					};
 					E181A6391BFC6469001EB55B = {
 						CreatedOnToolsVersion = 6.4;
@@ -359,6 +360,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Lingmin Kong (S8M792FFMZ)";
 				INFOPLIST_FILE = pushTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -369,6 +371,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: China Petrochemical Corporation";
 				INFOPLIST_FILE = pushTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -428,6 +431,7 @@
 				E181A6461BFC6469001EB55B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E181A6471BFC6469001EB55B /* Build configuration list for PBXNativeTarget "pushTestTests" */ = {
 			isa = XCConfigurationList;
@@ -436,6 +440,7 @@
 				E181A6491BFC6469001EB55B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
