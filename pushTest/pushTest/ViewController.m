@@ -11,6 +11,9 @@
 
 @interface ViewController ()
 {
+    
+    
+    
     UIViewController *ctr;
     UINavigationController *nav;
 }
