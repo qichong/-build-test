@@ -26,7 +26,7 @@
     //    ;;;    afa
     BViewControl *view = [[BViewControl alloc] init];
     /**
-     *  ll  dsfdafa
+     *  ll  dsfdafa 
      */
     [self.view addSubview:view.view];
     nav = [[UINavigationController alloc] initWithRootViewController:view];
